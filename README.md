@@ -45,9 +45,6 @@ To get started, please read our **[Contribution Guidelines](https://github.com/a
 
 We expect all contributors to adhere to our **[Code of Conduct](https://github.com/ashuksmile/thumbnaily-ai/blob/main/CODE_OF_CONDUCT.md)** to ensure a welcoming and inclusive environment.
 
-### Our Amazing Contributors
-[![Contributors](https://contrib.rocks/image?repo=ashuksmile/thumbnaily-ai)](https://github.com/ashuksmile/thumbnaily-ai/graphs/contributors)
-
 ---
 ## ⭐ Show Your Support
 
