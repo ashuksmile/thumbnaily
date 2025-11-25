@@ -2,21 +2,10 @@
 
 Stunning, AI-powered thumbnails in seconds. No design skills needed.
 
-[**View Demo »**](https://thumbnaily.in/) · [Report Bug](https://github.com/justanuragmaurya/thumbnaily-ai/issues) · [Request Feature](https://github.com/justanuragmaurya/thumbnaily-ai/issues)
-
----
-### Badges & Project Stats
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/justanuragmaurya/thumbnaily-ai/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=git)](https://github.com/justanuragmaurya/thumbnaily-ai/pulls)
-
-| 🌟 Stars | 🍴 Forks | 🐛 Issues | 🔔 Open PRs | 🔕 Closed PRs | 👥 Contributors |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [![GitHub stars](https://img.shields.io/github/stars/justanuragmaurya/thumbnaily-ai?style=flat&logo=github)](https://github.com/justanuragmaurya/thumbnaily-ai/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/justanuragmaurya/thumbnaily-ai?style=flat&logo=github)](https://github.com/justanuragmaurya/thumbnaily-ai/network/members) | [![GitHub issues](https://img.shields.io/github/issues/justanuragmaurya/thumbnaily-ai?style=flat&logo=github)](https://github.com/justanuragmaurya/thumbnaily-ai/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/justanuragmaurya/thumbnaily-ai?style=flat&logo=github)](https://github.com/justanuragmaurya/thumbnaily-ai/pulls) | [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/justanuragmaurya/thumbnaily-ai?style=flat&color=critical&logo=github)](https://github.com/justanuragmaurya/thumbnaily-ai/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub contributors](https://img.shields.io/github/contributors/justanuragmaurya/thumbnaily-ai?style=flat&color=blue&logo=github)](https://github.com/justanuragmaurya/thumbnaily-ai/graphs/contributors) |
+[**View Demo »**](https://thumbnaily.in/) · [Report Bug](https://github.com/ashuksmile/thumbnaily-ai/issues) · [Request Feature](https://github.com/ashuksmile/thumbnaily-ai/issues)
 
 ---
 ## 👋 About The Project
-
-
 
 **Thumbnaily-AI** is an open-source tool designed to empower content creators by automating the creation of high-quality, clickable YouTube thumbnails. Gone are the days of spending hours in complex design software. With Thumbnaily, you can transform a simple text idea into a visually stunning, cinematic thumbnail in mere seconds.
 
@@ -52,17 +41,12 @@ This project is built with a modern, scalable tech stack, perfect for developers
 
 We love contributions from the community! Whether it's reporting a bug, proposing a feature, or submitting a pull request, your help is greatly appreciated.
 
-To get started, please read our **[Contribution Guidelines](https://github.com/justanuragmaurya/thumbnaily-ai/blob/main/CONTRIBUTING.md)**.
+To get started, please read our **[Contribution Guidelines](https://github.com/ashuksmile/thumbnaily-ai/blob/main/CONTRIBUTING.md)**.
 
-We expect all contributors to adhere to our **[Code of Conduct](https://github.com/justanuragmaurya/thumbnaily-ai/blob/main/CODE_OF_CONDUCT.md)** to ensure a welcoming and inclusive environment.
+We expect all contributors to adhere to our **[Code of Conduct](https://github.com/ashuksmile/thumbnaily-ai/blob/main/CODE_OF_CONDUCT.md)** to ensure a welcoming and inclusive environment.
 
 ### Our Amazing Contributors
-[![Contributors](https://contrib.rocks/image?repo=justanuragmaurya/thumbnaily-ai)](https://github.com/justanuragmaurya/thumbnaily-ai/graphs/contributors)
-
----
-## 📜 License
-
-This project is licensed under the MIT License. See the [`LICENSE`](https://github.com/justanuragmaurya/thumbnaily-ai/blob/main/LICENSE) file for more details.
+[![Contributors](https://contrib.rocks/image?repo=ashuksmile/thumbnaily-ai)](https://github.com/ashuksmile/thumbnaily-ai/graphs/contributors)
 
 ---
 ## ⭐ Show Your Support
@@ -71,14 +55,3 @@ If you find Thumbnaily-AI helpful or interesting, please consider giving it a st
 
 ## Show some ❤️ by starring this awesome repository!
 
-### Stargazers
-[![Stargazers](https://reporoster.com/stars/justanuragmaurya/thumbnaily-ai?type=svg&limit=100&names=false)](https://github.com/justanuragmaurya/thumbnaily-ai/stargazers)
-
----
-## 📬 Contact
-
-**Anurag Maurya** - [@codeanuragg](https://twitter.com/codeanuragg) - [LinkedIn](https://www.linkedin.com/in/realanuragmaurya/)
-
-Project Link: [https://github.com/justanuragmaurya/thumbnaily-ai](https://github.com/justanuragmaurya/thumbnaily-ai)
-
-[⬆️ Back to Top](#-thumbnaily-ai-)
