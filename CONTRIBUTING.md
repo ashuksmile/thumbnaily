@@ -36,12 +36,6 @@ By participating in this project, you agree to maintain a **respectful and inclu
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## 📜 License
-
-By contributing to this project, you agree that your contributions will be licensed under the [MIT License](https://github.com/justanuragmaurya/thumbnaily-ai/blob/main/LICENSE).
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 ## 🤝 Ways to Contribute
 You can contribute in several ways:
 - **🐞 Report Bugs:** Submit issues for reproducible bugs.
@@ -89,18 +83,16 @@ We aim to keep things smooth and transparent:
  * You’ll receive feedback, even if the PR isn’t merged immediately.
 * ⌛ Reviews may take **24–72 hours** depending on activity. Thanks for your patience!
 
- > For Any Query, Send a DM on LinkedIn [Anurag Maurya](https://www.linkedin.com/in/realanuragmaurya/).
-
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## How To Contribute
 
 - Drop a Star ⭐ in this repo
-- Take a look at the existing [Issues](https://github.com/justanuragmaurya/thumbnaily-ai/issues). 
+- Take a look at the existing [Issues](https://github.com/ashuksmile/thumbnaily-ai/issues). 
 - Fork the Repo & create a branch for any issue that you are working on and commit your work.
 - At first raise an issue in which you want to work
 - Then after assigning only then work on that issue & make a PR 
-- Create a [**Pull Request**](https://github.com/justanuragmaurya/thumbnaily-ai/pulls), which will be promptly reviewed and given suggestions for improvements by the community.
+- Create a [**Pull Request**](https://github.com/ashuksmile/thumbnaily-ai/pulls), which will be promptly reviewed and given suggestions for improvements by the community.
 - **REMINDER: Don't raise more than 2 `Issue` at a time**
 - **IMPORTANT: Don't make any type of `Pull Request` until & unless you get assigned to an `Issue`**
 - Add screenshots or screen captures to your `Pull Request` to help us understand the effects of the changes that are included in your commits.
